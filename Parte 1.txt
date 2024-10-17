@@ -1,0 +1,52 @@
+Trabajo Práctico N° 1
+
+Alumno: Vinuesa Máximo
+
+Ejercicio 1
+Parte A
+1)
+Generalización simbólica: ¿Cuáles son las reglas escritas del lenguaje?
+
+JavaScript es un lenguaje flexible ya que puede utilizarse con cualquier tipo de paradigma, lo cual hace que no tenga muchas reglas escritas.
+
+2)
+Creencias de los profesionales: ¿Qué características particulares del lenguaje se cree que sean "mejores" que en otros lenguajes?
+
+Su característica principal es que es flexible y permite el uso de cualquier tipo de paradigma (incluso una mezcla de todos) lo que nos permite tener una mayor compatibilidad y se hace un lenguaje amigable al tener menos reglas / restricciones que los demás.
+
+
+
+Parte B
+
+
+1)
+¿Tiene una sintaxis y una semántica bien definida? ¿Existe documentación oficial?
+Si, tiene una semántica y sintaxis bien definida y puede encontrarse en el estándar ECMAScript la cual define cómo debe comportarse el lenguaje.
+
+
+2)
+¿Es posible comprobar el código producido en ese lenguaje?
+El mismo es un lenguaje interpretado por lo cual es necesario aplicaciones o extensiones externas para comprobar el código.
+
+
+3)
+¿Es confiable?
+Es confiable debido a su gran usabilidad y popularidad en el diseño de aplicaciones web como de escritorio.
+
+
+4)
+¿Es ortogonal?
+Si, el lenguaje JavaScript es ortogonal ya que no es tan exigente a la hora de aplicar ciertos aspectos, como por ejemplo el punto y coma, el paso de parámetros a funciones no se debe especificar el tipo de dato, etc.
+
+5)
+¿Cuáles son sus características de consistencia y uniformidad?
+Las variables y constantes deben ser precedidas por let o const (en caso de ser constante)
+
+6)
+¿Es extensible? ¿Hay subconjuntos de ese lenguaje?
+El mismo es extensible mediante la creación de bibliotecas.
+
+7)
+El código producido, ¿es transportable?
+Si, debido a que se puede ejecutar en casi todos los navegadores.
+
